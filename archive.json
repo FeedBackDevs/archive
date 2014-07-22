@@ -1,0 +1,20 @@
+{
+   "songs": [
+      {
+         "name": "TEST",
+         "artist": "TEST ARTIST",
+         "parts": [
+            { "name": "PART NAME", "variations": [ {"name": "VAR NAME1"}, {"name": "VAR NAME2"} ] }
+         ]
+      },
+      {
+         "name": "TEST2",
+         "artist": "TEST ARTIST2",
+         "parts": [
+            { "name": "PART NAME1", "variations": [ {"name": "VAR NAME1"}, {"name": "VAR NAME2"} ] },
+            { "name": "PART NAME2", "variations": [ {"name": "VAR NAME1"} ]  },
+            { "name": "PART NAME3", "variations": [ {"name": "VAR NAME1"}, {"name": "VAR NAME2"}, {"name": "VAR NAME3"} ]  }
+         ]
+      }
+   ]
+}
